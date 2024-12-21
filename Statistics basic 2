@@ -1,0 +1,44 @@
+A 1 . The three measures of central tendency are mean , median and mode
+
+A 2. The difference between mean , median and mode are as follows :
+a. Mean - Mean represents the average value of a dataset
+b. Median - Median is the middle value when data is arranged in order
+c. Mode - Mode is the value that appears most frequently in the dataset
+They are used to describe if the value of any data set comes in central or middle by applying the necessary formula which is needed
+
+A 3. The three measure of central tendency are for the given data set [178,177,176,177,178.2,178,175,179,180,175,178.9,176.2,177,172.5,178,176.5] are as follows :
+
+1. Mean - 177.01
+2. Median - 177
+3. Mode - 177,178
+
+A 4. The Standard deviation for the given data set [178,177,176,177,178.2,178,175,179,180,175,178.9,176.2,177,172.5,178,176.5] is 1.847
+
+A 5. Student A: Scores - 85, 88, 90, 92, 95 (with a mean of 90)
+     Student B: Scores - 60, 75, 85, 95, 100 (also with a mean of 90)
+     Student A has a range of 10 (95-85), while Student B has a range of 40 (100-60). 
+Standard Deviation: Student A would likely have a smaller standard deviation compared to Student B, indicating that the scores of Student A are more around the mean, while Student B has a wider difference of scores
+
+when comparing these two datasets it proves that the data with small measure are more closer to the mean and that which are at a distance rang has more gap
+
+A 6. A Venn diagram is a widely used diagram style that shows the logical relation between 2 or more sets of theorem
+
+A 7. a. The difference between set A and B is [3,4,5,7]
+
+A 8. Skewness is a statistical measurement that describes how asymmetric a dataset's probability distribution is
+
+A 9. The position of mediam will be Mean > Median > Mode if the dataset is right skewed
+
+A 10. Covariance - Covariance indicates the direction of the linear relationship between variables
+Corelation - Correlation measures both the strength and direction of the linear relationship between two variables
+
+A 11. The formula to calculate a simple mean is x̄ = (Σxi) / n . 
+
+EX - 88 + 68 + 92 + 40 = 288
+     mean = 288/4 = 72
+
+A 12. According to the question i think the mean , median and mode will be same for the data set
+
+A 13. Covariance measures the difference of two given variables but corelation measures the relatiob between both of them and it helps us to undeerstand the probabilty of any outcome
+
+A 14. Outliers significantly impact measures of central tendency, particularly the mean, by pulling it towards their extreme value, thus distorting the representation of the typical data point
